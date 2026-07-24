@@ -1,0 +1,16 @@
+{
+  "name": "題庫練習",
+  "short_name": "題庫練習",
+  "description": "AI 生成內容題庫 — 刷題、模擬考、讀題、錯題複習",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#05060f",
+  "theme_color": "#0b1030",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
